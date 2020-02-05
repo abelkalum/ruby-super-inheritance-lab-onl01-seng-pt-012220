@@ -12,7 +12,4 @@ class ChattyStudent < Student
     "Pick me!"
     
    end
-  end
-    
-  
 end
